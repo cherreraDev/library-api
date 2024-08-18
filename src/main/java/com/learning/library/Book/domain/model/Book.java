@@ -1,6 +1,5 @@
-package com.learning.library.Book.domain;
+package com.learning.library.Book.domain.model;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
